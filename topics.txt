@@ -1,0 +1,33 @@
+1. Introduction to conditionals
+   - What conditionals are and why we use them
+
+2. Comparison operators
+   - ==, ===, !=, !==, >, <, >=, <=
+   - Difference between loose and strict equality
+
+3. Logical operators
+   - && (AND), || (OR), ! (NOT)
+
+4. if...else statements
+   - Basic if
+   - if...else
+   - if...else if...else
+   - Nested if statements
+
+5. switch statements
+   - Basic usage
+   - Multiple cases for the same block
+   - switch(true) trick for complex conditions
+   - Fall-through behavior and break
+   - default case
+
+6. Assignment operators
+   - =, +=, -=, *=, /=, %=
+
+7. Combining operators in conditionals
+   - Using comparison + logical operators together
+   - Examples with multiple conditions
+
+8. Loops overview
+   - for, while, do...while
+   - Using comparison & logical operators in loop conditions
